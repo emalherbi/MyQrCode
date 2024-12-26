@@ -7,8 +7,6 @@
 
 namespace MyQrCode;
 
-require_once 'routes.php';
-
 use Endroid\QrCode\Label\Label;
 use Endroid\QrCode\Logo\Logo;
 use Endroid\QrCode\QrCode;
