@@ -1,0 +1,16 @@
+{
+  "name": "emalherbi/myqrcode",
+  "description": "My QRCode",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/emalherbi/MyQrCode",
+  "require": {
+    "php": ">= 5.0.0",
+    "endroid/qrcode": "^4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "MyQrCode\\": "src"
+    }
+  }
+}
