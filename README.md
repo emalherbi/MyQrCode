@@ -16,7 +16,7 @@ require_once 'vendor/autoload.php';
 try {
     $myQrCode = new MyQrCode\MyQrCode();
 
-    $qrCode = 'Juca Bala';
+    $qrCode = 'Test';
     $qrCodeLabel = 'Test';
     $qrCodeLogoPath = TEST.DS.'logo.png';
 
